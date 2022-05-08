@@ -6,8 +6,13 @@
 <h1 align="center">🚀Next Level Week</h1>
 
 <h2 align="center"> Durante a semana da NLW foi criada uma landing page, entitulada "DoctorCare" </h2>
-
-
+<br>
+<h2 align="center">
+    <a align="center" href="https://jacksonmarcelinofreitas.github.io/DoctorCare-LandingPage-NLW/">
+        👀Veja o site AQUI !✨🖱️
+    </a>
+</h2>
+<br>
 <p align="center">
     <img src= "https://user-images.githubusercontent.com/88464195/167307039-4a439b2a-89c2-4b4e-adcd-2a255044aece.gif">
 </p>
